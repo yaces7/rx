@@ -20,7 +20,7 @@ const Home = () => {
   return (
     <div>
       <Helmet>
-        <title>Lourity - Projeler</title>
+        <title>Kurtay - Projeler</title>
         <meta name="description" content="Lourity'nin geliştirdiği projeleri inceleyin. Web geliştirme, Discord botları ve daha fazlası." />
         <meta property="og:image" content="/logo.png" />
         <meta name="theme-color" content="#0ea5e9" />
@@ -29,7 +29,7 @@ const Home = () => {
       <div className='mt-20'>
         <div className='px-10'>
           <h2 className='font-semibold text-3xl text-gray-300'><i className="bi bi-journal-bookmark text-2xl mr-2"></i> Tüm projelerim</h2>
-          <p className='text-gray-400 text-lg'>Siparişlerde yaptığım ve kendime ait projeler</p>
+          <p className='text-gray-400 text-lg'>Siparişlerde yaptığım ve geliştirdiğim projeler</p>
         </div>
 
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 p-4 sm:py-8 sm:px-14'>
@@ -57,8 +57,8 @@ const Home = () => {
 
       <div className='mt-20'>
         <div className='px-10'>
-          <h2 className='font-semibold text-3xl text-gray-300'><i class="bi bi-backpack text-2xl mr-2"></i> Udemy'deki eğitimlerim</h2>
-          <p className='text-gray-400 text-lg'>Udemy platformunda yayınladığım eğitimlerim</p>
+          <h2 className='font-semibold text-3xl text-gray-300'><i class="bi bi-backpack text-2xl mr-2"></i> Discord Uygulamalarım</h2>
+          <p className='text-gray-400 text-lg'>Discord Platformunda yaptığım Uygulamalarım</p>
         </div>
 
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 p-4 sm:py-8 sm:px-14'>
