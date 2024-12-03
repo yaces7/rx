@@ -8,7 +8,7 @@ const About = () => {
             <Helmet>
                 <title>Kurtay - Hakkımda</title>
                 <meta name="description" content="Web tabanlı uygulamalar geliştiriyor ve Discord botları ile ilgileniyorum. Portföyüm ve becerilerim için URL lourity adresini ziyaret edin." />
-                <meta property="og:image" content="/logo.png" />
+                <meta property="og:image" content="/kurtay.png" />
                 <meta name="theme-color" content="#0ea5e9" />
             </Helmet>
             <Navbar />
@@ -20,7 +20,7 @@ const About = () => {
 
                 <div className='py-0 px-0 sm:py-8 sm:px-20'>
                     <div className='flex gap-2 py-8 px-20'>
-                        <img className='w-12 h-12 rounded-md mt-2 sm:mt-0' src="/lourity.jpeg" alt="lourity" />
+                        <img className='w-12 h-12 rounded-md mt-2 sm:mt-0' src="/kurtay.png" alt="kurtay" />
                         <span className='font-bold text-2xl text-gray-300 sm:mt-2'>Kurtay kimdir?</span>
                     </div>
                     <div className='p-4 sm:p-1'>
