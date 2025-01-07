@@ -17,7 +17,7 @@ const Navbar = () => {
 
             <div className='flex justify-center sm:justify-between p-2 py-4 mt-4 mx-2 sm:mx-8 lg:mx-60 text-center bg-gray-700 rounded-full shadow-md'>
                 <div className='mt-1 hidden sm:block'>
-                    <span className='font-bold m-8 text-md'>Kurtay</span>
+                    <span className='font-bold m-8 text-md'>Yasin</span>
                 </div>
                 <div className='flex gap-2 sm:border rounded-2xl border-sky-500 px-2'>
                     <a rel='nofollow' onClick={() => navigate('/')} className='cursor-pointer duration-300 font-medium rounded-md px-3 py-1 hover:text-sky-300'>Anasayfa</a>
