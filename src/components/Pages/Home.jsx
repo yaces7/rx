@@ -43,7 +43,7 @@ const Home = () => {
       <Navbar />
       <div className='flex justify-center py-48 text-center'>
         <div>
-          <h1 className='font-bold text-4xl sm:text-6xl'>Merhaba Ben <span className='text-sky-500 underline'>Kurtay</span></h1>
+          <h1 className='font-bold text-4xl sm:text-6xl'>Merhaba Ben <span className='text-sky-500 underline'>Yasin</span></h1>
           <p className='text-gray-400 text-lg sm:text-xl mt-2 p-1'>Full-Stack geliştiriciyim. Batman da yaşıyorum.<br />15 yaşındayım.</p>
         </div>
       </div>
