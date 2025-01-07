@@ -24,7 +24,7 @@ const Home = () => {
 
   const projects = [
     { name: "Teknolojinin Gelişimi", description: "Teknolojinin Gelişimi hakkında güzel bir slayt  (01.12.2024)", url: "https://drive.google.com/uc?export=download&id=19nGmHYf-HrTu3wVjsiMvR6Xr5WbpPwiz", language: "react", extraLanguage: "typescript" },
-    { name: "Pastebin", description: "Kullanıcıların metin ve kodlarını geçici olarak paylaşabildiği bir platform (08.04.2024)", url: "https://pastebin.com.tr", language: "react", extraLanguage: "typescript" },
+    { name: "Unutkanlık Hastalığı", description: "Unutkanlık Hastalığı hakkında güzel bir slayt  (07.01.2025)", url: "https://drive.google.com/uc?export=download&id=1kLE45E0R6h-I5do0vf3uTjkn_3F3Psar", language: "react", extraLanguage: "typescript" },
     { name: "Raven", description: "Ücretsiz projelerin paylaşıldığı bir platform (22.01.2024)", url: "https://ravendev.xyz", language: "react", extraLanguage: "typescript" },
     { name: "Synce Bot", description: "Discord sunucunuzu zahmetsizce yönetmenizi sağlayacak bir bot (02.02.2024)", url: "https://syncebot.com", language: "react", extraLanguage: "typescript" },
     { name: "Gelir Defteri", description: "Gelir ve giderlerinizi hesaplayabileceğiniz bir sistem (11.02.2024)", url: "https://gelirdefteri.vercel.app", language: "react", extraLanguage: "javascript" },
@@ -34,7 +34,7 @@ const Home = () => {
   return (
     <div>
       <Helmet>
-        <title>Kurtay - Full Stack Geliştirici</title>
+        <title>Yasin - Full Stack Geliştirici</title>
         <meta name="description"
           content="Web tabanlı uygulamalar geliştiriyor ve Discord botları ile ilgileniyorum. Portföyüm ve becerilerim için URL lourity adresini ziyaret edin." />
         <meta property="og:image" content="/logo.png" />
