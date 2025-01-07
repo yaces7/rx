@@ -28,10 +28,10 @@ const Navbar = () => {
                     <a rel='nofollow' href='https://discord.com/users/' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-discord"></i>
                     </a>
-                    <a rel='nofollow' href='https://github.com/kurtayx3' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
+                    <a rel='nofollow' href='https://github.com/retonex' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-github"></i>
                     </a>
-                    <a rel='nofollow' href='https://www.youtube.com/@kurtayx3' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
+                    <a rel='nofollow' href='https://www.youtube.com/yaces7' target='_blank' className="invisible sm:visible duration-300 cursor-pointer hover:bg-gray-900 w-8 h-8 rounded-full hidden sm:flex items-center justify-center">
                         <i className="bi bi-youtube"></i>
                     </a>
                 </div>
