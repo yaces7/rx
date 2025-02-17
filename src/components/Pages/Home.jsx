@@ -25,7 +25,7 @@ const Home = () => {
   const projects = [
     { name: "Teknolojinin Gelişimi", description: "Teknolojinin Gelişimi hakkında güzel bir slayt  (01.12.2024)", url: "https://drive.google.com/uc?export=download&id=19nGmHYf-HrTu3wVjsiMvR6Xr5WbpPwiz", language: "react", extraLanguage: "typescript" },
     { name: "Unutkanlık Hastalığı", description: "Unutkanlık Hastalığı hakkında güzel bir slayt  (07.01.2025)", url: "https://drive.google.com/uc?export=download&id=1kLE45E0R6h-I5do0vf3uTjkn_3F3Psar", language: "react", extraLanguage: "typescript" },
-    { name: "Fizik PPTX", description: "FİZİK PPTX 9", url: "https://drive.google.com/uc?export=download&id=1LBnIXuvfvTh-ITrgHGByFlVb-qQY0urC", language: "react", extraLanguage: "typescript" },
+    { name: "Fizik Video", description: "FİZİK MP4 9", url: "https://drive.google.com/uc?export=download&id=1UvqJWMO7BinNd3gq-75dhz1Iwq6sTlvw", language: "react", extraLanguage: "typescript" },
     { name: "Synce Bot", description: "Discord sunucunuzu zahmetsizce yönetmenizi sağlayacak bir bot (02.02.2024)", url: "https://syncebot.com", language: "react", extraLanguage: "typescript" },
     { name: "Gelir Defteri", description: "Gelir ve giderlerinizi hesaplayabileceğiniz bir sistem (11.02.2024)", url: "https://gelirdefteri.vercel.app", language: "react", extraLanguage: "javascript" },
     { name: "Zeal Turizm", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://zealturizm.com", language: "react" },
