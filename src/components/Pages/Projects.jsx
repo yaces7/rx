@@ -10,7 +10,7 @@ const Home = () => {
     { name: "DeneyVideo", description: "Bir Deney Viskozite", url: "https://drive.google.com/uc?export=download&id=13l5AFpaPCVWa-V5SNtD3jiYGIZKpUdzN", language: "react", extraLanguage: "typescript" },
     { name: "Synce Bot", description: "Discord sunucunuzu zahmetsizce yönetmenizi sağlayacak bir bot (02.02.2024)", url: "https://syncebot.com", language: "react", extraLanguage: "typescript" },
     { name: "Gelir Defteri", description: "Gelir ve giderlerinizi hesaplayabileceğiniz bir sistem (11.02.2024)", url: "https://gelirdefteri.vercel.app", language: "react", extraLanguage: "javascript" },
-    { name: "Zeal Turizm", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://zealturizm.com", language: "react" },
+    { name: "Powerpoint", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://docs.google.com/presentation/d/1fYgasS36l_O89oScmCV1vaNoW__usmdQ/edit?usp=sharing&ouid=115150944596753014915&rtpof=true&sd=true", language: "react" },
   ]
 
   const educations = [
