@@ -10,7 +10,13 @@ const Home = () => {
     { name: "DeneyVideo", description: "Bir Deney Viskozite", url: "https://drive.google.com/uc?export=download&id=13l5AFpaPCVWa-V5SNtD3jiYGIZKpUdzN", language: "react", extraLanguage: "typescript" },
     { name: "Synce Bot", description: "Discord sunucunuzu zahmetsizce yönetmenizi sağlayacak bir bot (02.02.2024)", url: "https://syncebot.com", language: "react", extraLanguage: "typescript" },
     { name: "Gelir Defteri", description: "Gelir ve giderlerinizi hesaplayabileceğiniz bir sistem (11.02.2024)", url: "https://gelirdefteri.vercel.app", language: "react", extraLanguage: "javascript" },
-    { name: "Powerpoint", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://docs.google.com/presentation/d/1fYgasS36l_O89oScmCV1vaNoW__usmdQ/edit?usp=sharing&ouid=115150944596753014915&rtpof=true&sd=true", language: "react" },
+    { name: "petrol orta okulu", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1BnqLihqYgUC8Fm5pV1CubXKEAmsrgv0j?usp=sharing", language: "react" },
+    { name: "imkb ortaokulu", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1rVidLSrFjDQPXNkdzuhtPaoPNJt1IzD8?usp=sharing", language: "react" },
+    { name: "yunus emre anadolu lisesi", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1nfIbrCgWOGbCwBxtt_GNGkGcsvMZcruy?usp=sharing", language: "react" },
+    { name: "yavuz selim ortakulu", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1z5JV8llHxdbGv-mmRn66d_0rc74b8San?usp=sharing", language: "react" },
+    { name: "gültepe anadolu lisesi", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1c6T4XCWP7HJVIiHpZCNB1mW1lWaMsbOt?usp=sharing", language: "react" },    
+  
+  
   ]
 
   const educations = [
@@ -84,3 +90,4 @@ const Home = () => {
 }
 
 export default Home
+
