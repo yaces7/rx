@@ -13,8 +13,8 @@ const Home = () => {
     { name: "petrol orta okulu", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1BnqLihqYgUC8Fm5pV1CubXKEAmsrgv0j?usp=sharing", language: "react" },
     { name: "imkb ortaokulu", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1rVidLSrFjDQPXNkdzuhtPaoPNJt1IzD8?usp=sharing", language: "react" },
     { name: "yunus emre anadolu lisesi", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1nfIbrCgWOGbCwBxtt_GNGkGcsvMZcruy?usp=sharing", language: "react" },
-    { name: "yavuz selim ortakulu", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1z5JV8llHxdbGv-mmRn66d_0rc74b8San?usp=sharing", language: "react" },
-    { name: "gültepe anadolu lisesi", description: "Bir turizm firması için geliştirdiğim tanıtım sitesi (09.03.2024)", url: "https://earth.google.com/earth/d/1c6T4XCWP7HJVIiHpZCNB1mW1lWaMsbOt?usp=sharing", language: "react" },    
+    { name: "istatistik", description: "istatistik 10. sınıf", url: "https://drive.google.com/uc?export=download&id=11S-OCZKh9cfkVjY1LQYu2LlMbaG0U4jJ", language: "react" },
+    { name: "mercankiz", description: "mercan kiz slayt", url: "https://drive.google.com/uc?export=download&id=15OPeb6AnlFBTdoxTu5aKxEsTWUkhcCJ9", language: "react" },    
   
   
   ]
@@ -90,4 +90,5 @@ const Home = () => {
 }
 
 export default Home
+
 
