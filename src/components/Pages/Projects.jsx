@@ -6,7 +6,7 @@ import { Helmet } from 'react-helmet';
 const Home = () => {
   const projects = [
     { name: "Periyodik Okey", description: "TEKNOFEST için özelinden bir okey oyunu  (08.02.2025)", url: "https://drive.google.com/uc?export=download&id=1VFDRqxO7Yl-2_Xls_pNlSrLmqCn6VinO", language: "python", extraLanguage: "typescript" },
-    { name: "EK", description: "Edebiyat KL (08.04.2024)", url: "https://drive.google.com/uc?export=download&id=1f4CsVXRWxolRVfU43hp-WQuUSbe-Ke4r", language: "react", extraLanguage: "typescript" },
+    { name: "Parmenides", description: "Parmenides Sunu", url: "https://drive.google.com/uc?export=download&id=1cnCePM2clzFc85GgOZdWyjYthmMIDFLj", language: "react", extraLanguage: "typescript" },
     { name: "DeneyVideo", description: "Bir Deney Viskozite", url: "https://drive.google.com/uc?export=download&id=13l5AFpaPCVWa-V5SNtD3jiYGIZKpUdzN", language: "react", extraLanguage: "typescript" },
     { name: "Synce Bot", description: "Discord sunucunuzu zahmetsizce yönetmenizi sağlayacak bir bot (02.02.2024)", url: "https://syncebot.com", language: "react", extraLanguage: "typescript" },
     { name: "Felsefe Sunu", description: "FELSEFE", url: "https://docs.google.com/presentation/d/1b8sxlexFrjqvbLdLBln1d65SELs3Y1mH/edit?usp=sharing&ouid=115150944596753014915&rtpof=true&sd=true", language: "react", extraLanguage: "javascript" },
@@ -90,6 +90,7 @@ const Home = () => {
 }
 
 export default Home
+
 
 
 
